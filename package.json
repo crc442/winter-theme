@@ -1,0 +1,22 @@
+{
+    "name": "winter",
+    "displayName": "Winter",
+    "description": "white monochromatic theme for visual studio code",
+    "version": "0.0.1",
+    "publisher": "imcrc",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Winter",
+                "uiTheme": "vs",
+                "path": "./themes/Winter-color-theme.json"
+            }
+        ]
+    }
+}
