@@ -85,7 +85,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#225588"
+				"foreground": "#868e96"
 			}
 		},
 		{
@@ -93,7 +93,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9966b8"
+				"foreground": "#868e96"
 			}
 		},
 		{
@@ -103,24 +103,24 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"fontStyle": "underline",
-				"foreground": "#ffeebb"
+				"fontStyle": "bold",
+				"foreground": "#212529"
 			}
 		},
 		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic underline",
-				"foreground": "#ddbb88"
+				"fontStyle": "italic",
+				"foreground": "#212529"
 			}
 		},
 		{
 			"name": "Function names",
 			"scope": "entity.name.function",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#ddbb88"
+				"fontStyle": "bold italic",
+				"foreground": "#212529"
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 			"name": "Tag attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "italic",
 				"foreground": "#212529"
 			}
 		},
